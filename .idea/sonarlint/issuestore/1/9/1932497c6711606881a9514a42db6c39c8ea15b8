@@ -1,0 +1,10 @@
+
+`	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(êéë’üÿÿÿÿ
+]
+java:S6813""BRemove this field injection and use constructor injection instead.(Áº–Žüÿÿÿÿ
+‡
+java:S1130("lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(êéë’üÿÿÿÿ
+n
+java:S16023"SRemove useless curly braces around statement and then remove useless return keyword(ÇÙ–Äÿÿÿÿÿ
+Y
+java:S1612R">Replace this lambda with method reference 'this::toFileItems'.(ý—•Ïýÿÿÿÿ

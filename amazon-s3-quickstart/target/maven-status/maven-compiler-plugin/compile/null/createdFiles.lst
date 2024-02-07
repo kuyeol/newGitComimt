@@ -1,0 +1,5 @@
+org/acme/s3/S3SyncClientResource.class
+org/acme/s3/FileObject.class
+org/acme/s3/FormData.class
+org/acme/s3/S3AsyncClientResource.class
+org/acme/s3/CommonResource.class
