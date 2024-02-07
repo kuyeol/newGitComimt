@@ -17,11 +17,13 @@
         <module name="vertx-quickstart" />
         <module name="getting-started-reactive-rest" />
         <module name="reactive-routes-quickstart" />
-        <module name="amazon-s3-quickstart" />
         <module name="mongodb-panache-quickstart" />
         <module name="hibernate-reactive-panache-quickstart" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="amazon-s3-quickstart" target="11" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
