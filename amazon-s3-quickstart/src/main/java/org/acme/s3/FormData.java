@@ -8,7 +8,7 @@ import org.jboss.resteasy.reactive.RestForm;
 public class FormData {
 
     @RestForm("file")
-    public File data1;
+    public File data;
 
     @RestForm
     @PartType(MediaType.TEXT_PLAIN)
