@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Quarkus" url="file://$PROJECT_DIR$/amazon-s3-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/config-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/getting-started-reactive-crud" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/hibernate-orm-rest-data-panache-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/hibernate-reactive-panache-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/mongodb-panache-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/reactive-routes-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/rest-client-reactive-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/security-keycloak-authorization-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/security-openid-connect-client-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/security-openid-connect-web-authentication-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/stork-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/vertx-quickstart" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/websockets-quickstart" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/stork-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/vertx-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/config-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/amazon-s3-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/websockets-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/mongodb-panache-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/reactive-routes-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/getting-started-reactive-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/rest-client-reactive-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-reactive-panache-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/security-openid-connect-client-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-orm-rest-data-panache-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/security-keycloak-authorization-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/security-openid-connect-web-authentication-quickstart/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="temurin-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

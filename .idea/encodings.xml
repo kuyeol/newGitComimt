@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/amazon-s3-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/amazon-s3-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/getting-started-reactive-crud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/getting-started-reactive-crud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-orm-rest-data-panache-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-orm-rest-data-panache-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-reactive-panache-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-reactive-panache-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongodb-panache-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongodb-panache-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive-routes-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive-routes-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-client-reactive-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-client-reactive-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-keycloak-authorization-quickstart/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-keycloak-authorization-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-keycloak-authorization-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-openid-connect-client-quickstart/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-openid-connect-client-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-openid-connect-client-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-openid-connect-web-authentication-quickstart/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-openid-connect-web-authentication-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-openid-connect-web-authentication-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stork-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stork-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vertx-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vertx-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websockets-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websockets-quickstart/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
